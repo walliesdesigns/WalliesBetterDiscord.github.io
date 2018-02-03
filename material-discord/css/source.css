@@ -3376,6 +3376,10 @@ body:active .menu-3BZuDT:not(:active) {
 	overflow-y: hidden;
 }
 
+#bd-settingspane-container .bda-left {
+	width: calc(100% - 115px) !important;
+}
+
 #bd-settingspane-container .bda-right {
 	position: relative !important;
 	width: 100px !important;
