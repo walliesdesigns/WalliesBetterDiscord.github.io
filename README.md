@@ -1,1 +1,1 @@
-# capnkitten.github.io
+# walliesbetterdiscord.github.io
